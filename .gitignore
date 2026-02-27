@@ -1,0 +1,14 @@
+# External dependencies
+BMAD-METHOD/
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
