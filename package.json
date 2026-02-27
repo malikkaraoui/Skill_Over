@@ -1,0 +1,16 @@
+{
+  "name": "skill-over",
+  "version": "0.1.0",
+  "description": "Intelligent intercept layer between AI agents and LLM providers — semantic cache, cost reduction, privacy-first",
+  "license": "MIT",
+  "author": "Malik Karaoui",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malikkaraoui/Skill_Over.git"
+  },
+  "scripts": {
+    "version:patch": "npm version patch -m 'fix: %s'",
+    "version:minor": "npm version minor -m 'feat: %s'",
+    "version:major": "npm version major -m 'feat!: %s'"
+  }
+}
